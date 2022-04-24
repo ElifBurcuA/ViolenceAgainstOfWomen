@@ -2,7 +2,7 @@
 Analyzing the causes of violence against women by data mining according to the results of the survey conducted in underdeveloped countries.
 
 ## About Dataset
-The data set from <a href="https://www.kaggle.com/datasets/andrewmvd/violence-against-women-and-girls" target="_blank">Kaggle</a>. includes the answers given to the survey conducted in more than 70 countries according to different socioeconomic variables.
+The data set from <a href="https://www.kaggle.com/datasets/andrewmvd/violence-against-women-and-girls" target="_blank">Kaggle</a>, includes the answers given to the survey conducted in more than 70 countries according to different socioeconomic variables.
 These variables are
 * Age
 * Gender
