@@ -1,7 +1,7 @@
 # ViolenceAgainstWomen
 Analyzing the causes of violence against women by data mining according to the results of the survey conducted in underdeveloped countries.
 
-##Purpose Of The Study
+## Purpose Of The Study
 The aim of this study is to get answers to the following questions:
 * Which countries should be supported if an international foundation is established to aid women? Which countries need this?
 * What do women and men in the country answer to the question about violence against women? What kind of perspective does he have?
